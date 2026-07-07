@@ -6,15 +6,7 @@ SEMESTER PROJECT
 Progress Report
 Library Management System (LMS)
 A Desktop Application for Managing Books, Students & Borrowing Records
-Submitted By:
-Student Names:
-  M. Saad
-,  M. Qasim,
-  M. Arqam
-Enrollment Numbers:
-  25-NTU-CS-Fl-1068, 
- 25-NTU-CS-Fl-1066, 
- 25-NTU-CS-Fl-1057
+
 Class:  BSCS-B (2nd Semester)
 Report Date:  June 10, 2026
  1. Project Introduction
